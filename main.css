@@ -1,0 +1,18 @@
+.main{
+    position: relative;
+    width: 700px;
+    border-style: solid;
+    padding: 20px;
+    text-align: left;
+}
+.heading{
+	background-color: #d3d3d3;
+}
+th{
+	border-top: solid;
+	border-bottom: solid;
+	text-align: left;
+}
+.line td{
+	border-bottom: solid;
+}

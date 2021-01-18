@@ -1,0 +1,34 @@
+.outer{
+	border-style: solid;
+	border-color: black;
+	border-collapse: collapse;
+	width: 50%;
+}
+
+.student{
+	color: #FC3004;
+	
+}
+
+.row{
+	color: #041EFC;
+	background-color: #d3d3d3;
+	border-style: dotted;
+}
+
+.heading{
+	color: #D604FC;
+}
+
+.row1{
+	background-color: #D3D3D3;
+}
+th {
+    border: 1px dotted black;
+}
+td{
+	 border: 1px dotted black;
+}
+tr{
+	border: 1px dotted black;
+}
